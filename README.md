@@ -4,7 +4,7 @@ An example of gin contains many useful features
 
 [简体中文](https://github.com/EDDYCJY/go-gin-example/blob/master/README_ZH.md)
 
-## Installation
+## Installation1
 ```
 $ go get github.com/EDDYCJY/go-gin-example
 ```
