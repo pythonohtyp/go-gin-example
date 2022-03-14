@@ -19,4 +19,4 @@ jobs:
     - name: test
       run: echo ${{ github.sha }}
     - name: cho
-      run: echo $GITHUB_REPOSITORY
+      run: echo https://github.com/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID
