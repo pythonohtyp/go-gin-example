@@ -2,7 +2,6 @@ name: Docker Image CI
 
 on:
   repository_dispatch:
-    types: [command]
 
 jobs:
 
